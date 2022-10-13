@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\bin\Debug\net6.0\SINIF-KAVRAMI.exe
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\bin\Debug\net6.0\SINIF-KAVRAMI.deps.json
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\bin\Debug\net6.0\SINIF-KAVRAMI.runtimeconfig.json
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\bin\Debug\net6.0\SINIF-KAVRAMI.dll
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\bin\Debug\net6.0\SINIF-KAVRAMI.pdb
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\SINIF-KAVRAMI.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\SINIF-KAVRAMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\SINIF-KAVRAMI.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\SINIF-KAVRAMI.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\SINIF-KAVRAMI.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\SINIF-KAVRAMI.dll
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\refint\SINIF-KAVRAMI.dll
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\SINIF-KAVRAMI.pdb
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\SINIF-KAVRAMI.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Pratikler\SINIF-KAVRAMI\obj\Debug\net6.0\ref\SINIF-KAVRAMI.dll
